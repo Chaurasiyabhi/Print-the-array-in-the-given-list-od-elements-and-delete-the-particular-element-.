@@ -1,1 +1,1 @@
-# Print-the-array-in-the-given-list-od-elements-and-delete-the-particular-element-.
+# Print-the-array-in-the-given-list-of-elements-and-delete-the-particular-element-.
